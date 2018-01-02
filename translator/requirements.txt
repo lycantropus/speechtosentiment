@@ -1,0 +1,2 @@
+google-cloud-speech==0.30.0
+google-cloud-language==1.0.0
